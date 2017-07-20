@@ -1,0 +1,103 @@
+.mh-grid {
+	overflow: hidden;
+	margin-bottom: 1.6842em;
+}
+.mh-grid .wrapper {
+	overflow: hidden;
+	margin-bottom: -1.6842em;
+}
+.mh-grid .video,
+.mh-grid .audio,
+.mh-grid .youtube {
+	margin-bottom: 1.6842em;
+	position: relative;
+}
+.mh-grid .video {
+	padding-top: 56.25%;
+}
+.mh-grid .audio {
+	padding-top: 56.25%;
+}
+.mh-grid .youtube {
+	padding-top: 75%;
+}
+.mh-grid .video iframe,
+.mh-grid .audio iframe,
+.mh-grid .youtube iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+}
+.mh-grid .one-half {
+	width: 50%;
+	float: left;
+}
+.mh-grid .one-half.first .video-wrapper,
+.mh-grid .one-half.first .audio-wrapper,
+.mh-grid .one-half.first .youtube-wrapper {
+	margin-right: 0.8421em;
+}
+.mh-grid .one-half.last .video-wrapper,
+.mh-grid .one-half.last .audio-wrapper,
+.mh-grid .one-half.last .youtube-wrapper {
+	margin-left: 0.8421em;
+}
+
+.mediahub-gallery-wrapper {
+	overflow: hidden;
+	margin-bottom: 1.6842em;
+}
+.mediahub-gallery.gallery {
+	overflow: hidden;
+	margin-bottom: -1.6842em;
+}
+.mediahub-gallery .gallery-item {
+	padding: 0;
+	margin-bottom: 1.6842em;
+}
+.mediahub-gallery .gallery-icon {
+	position: relative;
+	padding: 0;
+	padding-top: 56.25%;
+}
+.mediahub-gallery .gallery-item img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 100%;
+	width: 100%;
+}
+.mediahub-gallery .gallery-item.one-half.first .gallery-icon {
+	margin-right: 0.8421em;
+}
+.mediahub-gallery .gallery-item.one-half.last .gallery-icon {
+	margin-left: 0.8421em;
+}
+
+
+@media (max-width: 768px) {
+	.mh-grid .one-half,
+	.mediahub-gallery.gallery .gallery-item {
+		width: 100%;
+		max-width: 100%;
+		float: none;
+	}
+	.mh-grid .one-half.first .video-wrapper,
+	.mh-grid .one-half.first .audio-wrapper,
+	.mh-grid .one-half.first .youtube-wrapper,
+	.mediahub-gallery .gallery-item.one-half.first .gallery-icon {
+		margin-right: 0;
+	}
+	.mh-grid .one-half.last .video-wrapper,
+	.mh-grid .one-half.last .audio-wrapper,
+	.mh-grid .one-half.last .youtube-wrapper,
+	.mediahub-gallery .gallery-item.one-half.last .gallery-icon {
+		margin-left: 0;
+	}
+}

@@ -1,0 +1,329 @@
+# Copyright (C) 2015 Forsite Media
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: MediaHub Content API 2.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/plugin\n"
+"POT-Creation-Date: 2015-10-08 12:37:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: legacy.php:16
+msgid ""
+"Important upgrade notice:</strong> Version 4 of the MediaHub API is now "
+"available."
+msgstr ""
+
+#: legacy.php:17
+msgid ""
+"An update to the MediaHub API is available. To be able to update to the new "
+"API, you need new API-keys. Request them via <a "
+"href=\"mailto:servicedesk@demediahub.nl\">servicedesk@demediahub.nl</a>."
+msgstr ""
+
+#: legacy.php:20
+msgid "Click here to upgrade to the new API"
+msgstr ""
+
+#: legacy.php:23
+msgid "Don't show this notice again"
+msgstr ""
+
+#: v2/inc/class-mediahub-agenda.php:79
+msgid "Invalid date range"
+msgstr ""
+
+#: v2/inc/class-mediahub-agenda.php:163
+msgid "to"
+msgstr ""
+
+#: v2/inc/class-mediahub-agenda.php:174
+msgid "Read more"
+msgstr ""
+
+#: v2/inc/class-mediahub-agenda.php:183
+msgid "No current calendar items found"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:232 v2/inc/class-mediahub-api.php:523
+msgid "General settings"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:236
+msgid "Post settings"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:240 v2/inc/class-mediahub-api.php:529
+msgid "API settings"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:244
+msgid "Instructions"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:324
+msgid "Settings"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:353
+msgid "Categories"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:361 v2/inc/class-mediahub-api.php:362
+msgid "Update"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:362
+msgid "Click the update button to import manually."
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:362
+msgid "NOTE: this is not the save button!"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:369 v2/inc/class-mediahub-api.php:386
+msgid "NOTE:"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:370
+msgid "The MediaHub API is not returning data."
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:387
+msgid "First fill in all API settings correctly."
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:419
+msgid "API Group"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:420
+msgid "Choose the group to which subscribers must be added:"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:428
+msgid "Checking Interval"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:429
+msgid "Choose the time between checking for new posts"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:433
+msgid "5 minutes"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:434
+msgid "10 minutes"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:435
+msgid "15 minutes"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:442
+msgid "Heading"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:443
+msgid ""
+"Choose heading size. Choose 'No headings' to show no headings for any media "
+"type."
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:447
+msgid "No headings"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:457
+msgid "YouTube title"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:458 v2/inc/class-mediahub-api.php:465
+#: v2/inc/class-mediahub-api.php:472 v2/inc/class-mediahub-api.php:479
+#: v2/inc/class-mediahub-api.php:486
+msgid "Title to be shown above %s embeds. Leave empty to show no title."
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:458
+msgid "YouTube"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:464
+msgid "Video title"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:465
+msgid "video"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:471
+msgid "Audio title"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:472
+msgid "audio"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:478
+msgid "Photo title"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:479
+msgid "photo"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:485
+msgid "Gallery title"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:486
+msgid "gallery"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:495
+msgid "API URL"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:500
+msgid "API Open Key"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:505
+msgid "API Secret Key"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:510
+msgid "Environment ID"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:516
+msgid ""
+"<p>Below you see all the themes from the MediaHub<br>Check the desired "
+"categories and save the changes with the blue button.<br>Then you can "
+"retrieve the messages manually. The first time you do this may take a long "
+"time because of the amount of messages that has to be retrieved.</p><p>You "
+"only have to manually update the first time and / or optionally if you add "
+"a new category.<br>New messages are automatically retrieved after setting "
+"up.</p>"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:518
+msgid ""
+"<p>If you have correctly filled in the API settings you will see a list of "
+"categories to choose from.<br> Check the categories you want and save with "
+"the button below. <br> After that you can import manually. The first time "
+"you do the import it can be slow due to the amount of items that needs to "
+"be imported.</p><p>You only have to manually import once and/or optionally "
+"if a new category is added.<br> New items items will be imported at the set "
+"interval.</p>"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:535
+msgid "How to"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:536
+msgid ""
+"Choose a WordPress category from the selection to convert it to the "
+"MediaHub category.%1$s The MediaHub category is shown at the right (after "
+"the media icons).%1$s%1$s The media icons can be selected to only show:%1$s "
+"%2$s article%1$s %3$s video%1$s %4$s audio%1$s If none are selected "
+"everything is shown.%1$s Multiple selections possible."
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:568
+msgid "Every 5 minutes"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:572
+msgid "Every 10 minutes"
+msgstr ""
+
+#: v2/inc/class-mediahub-api.php:576
+msgid "Every 15 minutes"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:13
+msgid "Email address"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:14
+msgid "Initials"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:15
+msgid "First name"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:16
+msgid "Prefix last name"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:17
+msgid "Surname"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:18
+msgid "API groups"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:36
+msgid "No arguments were set in the [mediahub_newsletter] shortcode."
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:42
+msgid "Your details have been added to our newsletter service."
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:50
+msgid "The email field is required"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:65
+msgid "You are already subscribed."
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:95
+msgid "Error: invalid value"
+msgstr ""
+
+#: v2/inc/class-mediahub-newsletter.php:117
+msgid "Submit"
+msgstr ""
+
+#: v2/lib/class.settings-api.php:229
+msgid "add as new category"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MediaHub Content API"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://forsite.media/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Retrieves content from the MediaHub."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Forsite Media"
+msgstr ""

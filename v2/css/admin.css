@@ -1,0 +1,20 @@
+#mhca_help .form-table,
+#mhca_articles .form-table,
+#mhca_api_key .form-table,
+#mhca_options .form-table {
+	margin: 8px 12px;
+}
+
+#mhca_options .mh-filter {
+	display:none;
+}
+
+#mhca_options td label span {
+	vertical-align: middle;
+	color: #999;
+	cursor: pointer;
+	font-size: 120%;
+}
+#mhca_options td input[type=checkbox]:checked+span {
+	color: green;
+}

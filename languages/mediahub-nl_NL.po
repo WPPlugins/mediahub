@@ -1,0 +1,293 @@
+# Translation of MediaHub in Dutch
+# This file is distributed under the same license as the MediaHub package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-10-29 08:41:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: MediaHub\n"
+
+#: v2/lib/class.settings-api.php:229
+msgid "add as new category"
+msgstr "als nieuwe categorie toevoegen"
+
+#: v2/inc/class-mediahub-newsletter.php:14
+msgid "Initials"
+msgstr "Initialen"
+
+#: v2/inc/class-mediahub-newsletter.php:17
+msgid "Surname"
+msgstr "Achternaam"
+
+#. Description of the plugin/theme
+msgid "Retrieves content from the MediaHub."
+msgstr "Haalt content op uit MediaHub."
+
+#: v2/inc/class-mediahub-api.php:369 v2/inc/class-mediahub-api.php:386
+msgid "NOTE:"
+msgstr "LET OP:"
+
+#: legacy.php:16
+msgid "Important upgrade notice:</strong> Version 4 of the MediaHub API is now available."
+msgstr "Belangrijke update melding:</strong> Versie 4 van de MediaHub API is nu beschikbaar."
+
+#: legacy.php:17
+msgid "An update to the MediaHub API is available. To be able to update to the new API, you need new API-keys. Request them via <a href=\"mailto:servicedesk@demediahub.nl\">servicedesk@demediahub.nl</a>."
+msgstr "Er is een update beschikbaar voor de MediaHub API. Om te kunnen updaten naar de  nieuwe API heeft u nieuwe API-keys nodig. Deze kunt u opvragen via  <a href=\"mailto:servicedesk@demediahub.nl\">servicedesk@demediahub.nl</a>."
+
+#: legacy.php:20
+msgid "Click here to upgrade to the new API"
+msgstr "Klik hier om te naar de nieuwe API bij te werken"
+
+#: legacy.php:23
+msgid "Don't show this notice again"
+msgstr "Toon deze melding niet opnieuw."
+
+#: v2/inc/class-mediahub-agenda.php:79
+msgid "Invalid date range"
+msgstr "Ongeldige data range"
+
+#: v2/inc/class-mediahub-agenda.php:163
+msgid "to"
+msgstr "om"
+
+#: v2/inc/class-mediahub-agenda.php:174
+msgid "Read more"
+msgstr "Lees meer"
+
+#: v2/inc/class-mediahub-agenda.php:183
+msgid "No current calendar items found"
+msgstr "Geen actuele agenda-items gevonden"
+
+#: v2/inc/class-mediahub-api.php:232 v2/inc/class-mediahub-api.php:523
+msgid "General settings"
+msgstr "Algemene instellingen"
+
+#: v2/inc/class-mediahub-api.php:236
+msgid "Post settings"
+msgstr "Bericht instellingen"
+
+#: v2/inc/class-mediahub-api.php:240 v2/inc/class-mediahub-api.php:529
+msgid "API settings"
+msgstr "API instellingen"
+
+#: v2/inc/class-mediahub-api.php:244
+msgid "Instructions"
+msgstr "Instructies"
+
+#: v2/inc/class-mediahub-api.php:324
+msgid "Settings"
+msgstr "Instellingen"
+
+#: v2/inc/class-mediahub-api.php:353
+msgid "Categories"
+msgstr "Categorieën"
+
+#: v2/inc/class-mediahub-api.php:361 v2/inc/class-mediahub-api.php:362
+msgid "Update"
+msgstr "Update"
+
+#: v2/inc/class-mediahub-api.php:362
+msgid "Click the update button to import manually."
+msgstr "Klik op de knop ‘update’ om handmatig te importeren."
+
+#: v2/inc/class-mediahub-api.php:362
+msgid "NOTE: this is not the save button!"
+msgstr "Let op: dit is niet de knop ‘opslaan’!"
+
+#: v2/inc/class-mediahub-api.php:370
+msgid "The MediaHub API is not returning data."
+msgstr "De MediaHub API geeft geen gegevens."
+
+#: v2/inc/class-mediahub-api.php:387
+msgid "First fill in all API settings correctly."
+msgstr "Vul eerst alle API-instellingen correct in."
+
+#: v2/inc/class-mediahub-api.php:419
+msgid "API Group"
+msgstr "API Groep"
+
+#: v2/inc/class-mediahub-api.php:420
+msgid "Choose the group to which subscribers must be added:"
+msgstr "Kies de standaard groep waar de abonnees aan toegevoegd moeten worden:"
+
+#: v2/inc/class-mediahub-api.php:428
+msgid "Checking Interval"
+msgstr "Interval controleren"
+
+#: v2/inc/class-mediahub-api.php:429
+msgid "Choose the time between checking for new posts"
+msgstr "Kies om de hoeveel tijd er gecontroleerd wordt of er nieuwe berichten zijn"
+
+#: v2/inc/class-mediahub-api.php:433
+msgid "5 minutes"
+msgstr "5 minuten"
+
+#: v2/inc/class-mediahub-api.php:434
+msgid "10 minutes"
+msgstr "10 minuten"
+
+#: v2/inc/class-mediahub-api.php:435
+msgid "15 minutes"
+msgstr "15 minuten"
+
+#: v2/inc/class-mediahub-api.php:442
+msgid "Heading"
+msgstr "Kop"
+
+#: v2/inc/class-mediahub-api.php:443
+msgid "Choose heading size. Choose 'No headings' to show no headings for any media type."
+msgstr "Kies afmeting van de kop. Kies ‘verbergen’  om bij geen enkel mediatype koppen te tonen."
+
+#: v2/inc/class-mediahub-api.php:447
+msgid "No headings"
+msgstr "Verbergen"
+
+#: v2/inc/class-mediahub-api.php:457
+msgid "YouTube title"
+msgstr "YouTube titel"
+
+#: v2/inc/class-mediahub-api.php:458 v2/inc/class-mediahub-api.php:465
+#: v2/inc/class-mediahub-api.php:472 v2/inc/class-mediahub-api.php:479
+#: v2/inc/class-mediahub-api.php:486
+msgid "Title to be shown above %s embeds. Leave empty to show no title."
+msgstr "Titel die boven %s embeds getoond wordt. Laat leeg om geen titel te tonen."
+
+#: v2/inc/class-mediahub-api.php:458
+msgid "YouTube"
+msgstr "YouTube"
+
+#: v2/inc/class-mediahub-api.php:464
+msgid "Video title"
+msgstr "Video titel"
+
+#: v2/inc/class-mediahub-api.php:465
+msgid "video"
+msgstr "video  "
+
+#: v2/inc/class-mediahub-api.php:471
+msgid "Audio title"
+msgstr "Audio titel"
+
+#: v2/inc/class-mediahub-api.php:472
+msgid "audio"
+msgstr "audio"
+
+#: v2/inc/class-mediahub-api.php:478
+msgid "Photo title"
+msgstr "Foto titel"
+
+#: v2/inc/class-mediahub-api.php:479
+msgid "photo"
+msgstr "foto"
+
+#: v2/inc/class-mediahub-api.php:485
+msgid "Gallery title"
+msgstr "Galerij titel"
+
+#: v2/inc/class-mediahub-api.php:486
+msgid "gallery"
+msgstr "gallerij"
+
+#: v2/inc/class-mediahub-api.php:495
+msgid "API URL"
+msgstr "API URL"
+
+#: v2/inc/class-mediahub-api.php:500
+msgid "API Open Key"
+msgstr "API Open Key"
+
+#: v2/inc/class-mediahub-api.php:505
+msgid "API Secret Key"
+msgstr "API Secret Key"
+
+#: v2/inc/class-mediahub-api.php:510
+msgid "Environment ID"
+msgstr "Environment ID"
+
+#: v2/inc/class-mediahub-api.php:516
+msgid "<p>Below you see all the themes from the MediaHub<br>Check the desired categories and save the changes with the blue button.<br>Then you can retrieve the messages manually. The first time you do this may take a long time because of the amount of messages that has to be retrieved.</p><p>You only have to manually update the first time and / or optionally if you add a new category.<br>New messages are automatically retrieved after setting up.</p>"
+msgstr "<p>Hieronder zie je alle thema’s van de MediaHub.<br>Vink de gewenste categorieën aan en sla de wijzigingen op met de blauwe knop.<br>Daarna kun je berichten handmatig ophalen.  De eerste keer dat je dit doet, kan het lang duren gezien de hoeveelheid berichten die opgehaald moet worden.</p><p>Je hoeft alleen de eerste keer handmatig te updaten en/of optioneel als je een nieuwe categorie toevoegt.<br>Nieuwe berichten worden nadat alles is ingesteld automatisch opgehaald.</p>"
+
+#: v2/inc/class-mediahub-api.php:518
+msgid "<p>If you have correctly filled in the API settings you will see a list of categories to choose from.<br> Check the categories you want and save with the button below. <br> After that you can import manually. The first time you do the import it can be slow due to the amount of items that needs to be imported.</p><p>You only have to manually import once and/or optionally if a new category is added.<br> New items items will be imported at the set interval.</p>"
+msgstr ""
+"<p>Als je de API instellingen juist hebt ingevuld, zie je een lijst met categorieën waar je uit kunt kiezen. <br/> Vink de categorieën aan die je wilt en sla op met de knop hieronder.<br/>\n"
+"Daarna kun je handmatig importeren. De eerste keer dat je importeert kan het langer duren, afhankelijk van het aantal items dat je importeert.</p><p>Je hoeft slechts één keer handmatig te importeren en/of optioneel wanneer een nieuwe categorie wordt toegevoegd.<br/>\n"
+" \n"
+"Nieuwe items worden geïmporteerd volgens de ingestelde interval.</p>"
+
+#: v2/inc/class-mediahub-api.php:535
+msgid "How to"
+msgstr "Hoe"
+
+#: v2/inc/class-mediahub-api.php:536
+msgid "Choose a WordPress category from the selection to convert it to the MediaHub category.%1$s The MediaHub category is shown at the right (after the media icons).%1$s%1$s The media icons can be selected to only show:%1$s %2$s article%1$s %3$s video%1$s %4$s audio%1$s If none are selected everything is shown.%1$s Multiple selections possible."
+msgstr "Kies je een WordPress categorie uit de selectie om deze om te zetten naar de MediaHub categorie.%1$s De MediaHub categorie wordt rechts getoond (na de media-iconen).%1$s%1$s Met de media-iconen kun je selecteren wat er getoond wordt: %1$s %2$s artikel%1$s %3$s video%1$s %4$s audio%1$s te tonen. Als er niets geselecteerd wordt, wordt alles getoond. %1$s Meerdere selecties mogelijk."
+
+#: v2/inc/class-mediahub-api.php:568
+msgid "Every 5 minutes"
+msgstr "Elke 5 minuten"
+
+#: v2/inc/class-mediahub-api.php:572
+msgid "Every 10 minutes"
+msgstr "Elke 10 minuten"
+
+#: v2/inc/class-mediahub-api.php:576
+msgid "Every 15 minutes"
+msgstr "Elke 15 minuten"
+
+#: v2/inc/class-mediahub-newsletter.php:13
+msgid "Email address"
+msgstr "E-mailadres"
+
+#: v2/inc/class-mediahub-newsletter.php:15
+msgid "First name"
+msgstr "Voornaam"
+
+#: v2/inc/class-mediahub-newsletter.php:16
+msgid "Prefix last name"
+msgstr "Tussenvoegsel"
+
+#: v2/inc/class-mediahub-newsletter.php:18
+msgid "API groups"
+msgstr "API groups"
+
+#: v2/inc/class-mediahub-newsletter.php:36
+msgid "No arguments were set in the [mediahub_newsletter] shortcode."
+msgstr "Er zijn geen argumenten bepaald in de [mediahub_newsletter] shortcode."
+
+#: v2/inc/class-mediahub-newsletter.php:42
+msgid "Your details have been added to our newsletter service."
+msgstr "Uw gegevens zijn toegevoegd aan onze nieuwsbriefdienst."
+
+#: v2/inc/class-mediahub-newsletter.php:50
+msgid "The email field is required"
+msgstr "Het e-mail veld is verplicht"
+
+#: v2/inc/class-mediahub-newsletter.php:65
+msgid "You are already subscribed."
+msgstr "U heeft zich al geabonneerd."
+
+#: v2/inc/class-mediahub-newsletter.php:95
+msgid "Error: invalid value"
+msgstr "Fout: ongeldige waarde"
+
+#: v2/inc/class-mediahub-newsletter.php:117
+msgid "Submit"
+msgstr "Verstuur"
+
+#. Plugin Name of the plugin/theme
+msgid "MediaHub Content API"
+msgstr "MediaHub Content API"
+
+#. Author URI of the plugin/theme
+msgid "https://forsite.media/"
+msgstr "https://forsite.media/"
+
+#. Author of the plugin/theme
+msgid "Forsite Media"
+msgstr "Forsite Media"
